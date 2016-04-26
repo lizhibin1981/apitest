@@ -1,3 +1,3 @@
 # apitest
-服务端API接口测试框架
-基于Python
+基于Python的服务端API接口测试框架
+
